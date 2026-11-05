@@ -1,0 +1,6 @@
+{
+  "name": "SEARX AI Traffic Bot",
+  "description": "Professional Windows desktop automation and traffic intelligence workstation with proxy management, Playwright engine, SEO auditing, and security compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
